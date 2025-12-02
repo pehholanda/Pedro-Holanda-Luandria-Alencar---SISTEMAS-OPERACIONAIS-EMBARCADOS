@@ -20,7 +20,6 @@ produtor_consumidor.h
 gerador_e_estacao.c
 monitor.c
 
-
 compilar e executar nessa sequência
 
 abrir 1 terminal:
@@ -33,3 +32,6 @@ abrir 1 terminal:
  em um segundo terminal:
 
  ./monitor
+
+
+ 
